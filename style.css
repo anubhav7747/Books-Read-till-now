@@ -1,0 +1,66 @@
+*, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #95614f;
+}
+
+.contents {
+    background-color: #40a03f;
+}
+
+.contents, #menu, .personalNav {
+    display: flex;
+    list-style: none;
+    align-items: center;
+    justify-content: center;
+}
+
+.logo, #menu > li, .personalNav > li, .searchBox_icon--magnifyingGlass {
+    margin-right: 25px;
+}
+
+#menu > li, .personalNav > li {
+    font-size: 25px;
+}
+
+#menu > li > a, .personalNav > li > a {
+    text-decoration: none;
+    color: #000000ab;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#menu > li > a:hover, .personalNav > li > a:hover {
+    text-decoration: underline;
+    color: #834e3d;
+}
+
+.logoImg {
+    border-radius: 25px;
+}
+
+#search-input {
+    padding: 5px 15px;
+    font-size: 18px;
+    max-width: 15em;
+    border-radius: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-right: 25px;
+}
+
+input[type=text] {
+    background: #fff;
+    border-radius: 3px;
+    border: #dcd6cc 1px solid;
+    color: #333333;
+    font-family: monospace;
+    resize: none;
+}
+
+.searchBox_icon--magnifyingGlass {
+    background: url(https://s.gr-assets.com/assets/layout/header/icn_nav_search.svg) no-repeat;
+    right: 4px;
+    top: 6.5px;
+}
