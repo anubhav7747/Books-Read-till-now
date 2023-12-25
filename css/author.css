@@ -1,0 +1,46 @@
+#home {
+    position: relative;
+    left: 95%;
+    background-color: burlywood;
+    color: #124578;
+    font-size: 20px;
+    margin-top: 5px;
+    padding: 5px;
+    border: 1px solid burlywood;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+#home:hover {
+    text-decoration: underline;
+    background-color: #124578;
+    color: burlywood;
+    border: 1px solid #124578;
+    border-radius: 12px;
+}
+
+#authorCss {
+    margin-top: 5rem;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+#authorCss > ul {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#authorCss > ul > li {
+    margin: 25px 25px;
+}
+
+#authorCss > ul > li > a {
+    color: orange;
+    font-size: 20px;
+}
+
+#copyright {
+    margin-top: 7em;
+}
