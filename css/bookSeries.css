@@ -1,20 +1,25 @@
-#home {
-    position: relative;
-    left: 95%;
-    background-color: burlywood;
-    color: #124578;
-    font-size: 20px;
-    margin-top: 5px;
-    padding: 5px;
-    border: 1px solid burlywood;
-    cursor: pointer;
-    border-radius: 7px;
+#shivaTrilogy, #ramChandraSeries, #bharatSeries {
+    font-size: 25px;
+    border: 2px solid brown;
+    background-color: brown;
+    color: white;
+    padding: 10px 10px;
+    border-radius: 5px;
 }
 
-#home:hover {
+#shivaTrilogy > a, #ramChandraSeries > a, #bharatSeries > a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+}
+
+#shivaTrilogy:hover, #ramChandraSeries:hover, #bharatSeries:hover {
+    background-color: #9c411d;
+    border-color: #9c411d;
+    border-radius: 10px;
     text-decoration: underline;
-    background-color: #124578;
-    color: burlywood;
-    border: 1px solid #124578;
-    border-radius: 12px;
+}
+
+#shivaTrilogy > a:hover, #ramChandraSeries > a:hover, #bharatSeries > a:hover {
+    text-decoration: underline;
 }
