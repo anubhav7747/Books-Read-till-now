@@ -1,0 +1,24 @@
+#home {
+    position: relative;
+    left: 95%;
+    background-color: burlywood;
+    color: #124578;
+    font-size: 20px;
+    margin-top: 5px;
+    padding: 5px;
+    border: 1px solid burlywood;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+#home:hover {
+    text-decoration: underline;
+    background-color: #124578;
+    color: burlywood;
+    border: 1px solid #124578;
+    border-radius: 12px;
+}
+
+h1 {
+    text-decoration: underline;
+}
