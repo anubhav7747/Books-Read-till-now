@@ -1,0 +1,21 @@
+#scionOfIkshvaku, #sitaWarriorOfMithila, #raavanEnemyOfAryavarta, #warOfLanka {
+}
+
+#scionOfIkshvaku > a, #sitaWarriorOfMithila > a, #raavanEnemyOfAryavarta > a, #warOfLanka > a {
+    color: beige;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+#scionOfIkshvaku > a:hover, #sitaWarriorOfMithila > a:hover, #raavanEnemyOfAryavarta > a:hover, #warOfLanka > a:hover {
+    color: #6c0000;
+    text-decoration: none;
+}
+
+#prev {
+    margin-top: 0;
+}
+
+#copyright {
+    margin-top: 1.5rem;
+}

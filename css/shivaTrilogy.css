@@ -1,0 +1,33 @@
+body {
+    background: url(/Images/bg2.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+#shivaTrilogyH1 {
+    margin-top: 1rem;
+    color: #601e04;
+}
+
+.width-500 {
+    padding: 75px;
+    width: 85%;
+    margin: 0 auto;
+    color: #f3f3f3;
+    font-size: 22px;
+    line-height: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    text-align: justify;
+}
+
+#flex {
+    margin-top: 2rem;
+}
+
+#copyright {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}

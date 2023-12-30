@@ -6,6 +6,7 @@
     <title>Books - Read till now | Shiva Trilogy</title>
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/styleCommon.css">
+    <link rel="stylesheet" href="/css/shivaTrilogy.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Rajdhani:wght@500&display=swap" rel="stylesheet">
@@ -14,18 +15,39 @@
 <body>
     <button type="submit" id="home" onclick="myHome()" value="home">Home</button>
 
-    <h1>Shiva Trilogy</h1>
+    <h1 id="shivaTrilogyH1">Shiva Trilogy</h1>
     
     <section>
+        <article class="width-500">
+            <p>Shiva! The Mahadev. The God of Gods. Destroyer of Evil. Passionate lover. Fierce warrior. Consummate dancer. Charismatic leader. All-powerful, yet incorruptible. A quick wit, accompanied by an equally quick and fearsome temper.</p>
+
+            <p class="margin-top">Over the centuries, no foreigner who came to India - conqueror, merchant, scholar, ruler, traveller - believed that such a great man could possibly have existed in reality. They assumed that he must have been a mythical God, whose existence was possible only in the realms of human imagination. Unfortunately, this belief became our received wisdom.</p>
+            
+            <p class="margin-top">But what if we are wrong? What if Lord Shiva was not a figment of a rich imagination, but a person of flesh and blood? Like you and me. A man who rose to become godlike because of his karma. That is the premise of the Shiva Tilogy, which interprets the rich mythological heritage of ancient India, blending fiction with historical fact.</p>
+            
+            <p class="margin-top">This work is therefore a tribute to Lord Shiva and the lesson that his life is to us. A lesson lost in the depths of time and ignorance. A lesson, that all of us can rise to be better people. A lesson, that there exists a potential God in every single human being. All we have to do is listen to ourselves.</p>
+            
+            <p class="margin-top"><i>The Immortals of Meluha</i> is the first book in the trilogy that chronicles the journey of this extraordinary hero. Two more books are to follow: <i>The Secrets of the Nagas</i> and <i>The Oath of the Vayuputras</i>.</p>
+        </article>
+        
         <ul id="flex">
             <li id="immortalsOfMeluha"><a href="/html/immortalsOfMeluha.html" type="submit">The Immortals of Meluha</a></li>
             <li id="secretsOfNagas"><a href="/html/secretsOfNagas.html" type="submit">The Secrets of The Nagas</a></li>
             <li id="oathOfVayuputras"><a href="/html/oathOfVayuputras.html" type="submit">The Oath of The Vayuputras</a></li>
         </ul>
     </section>
+    
+    <button id="prev" onclick="myBookSeries()">Book Series</button>
 
     <footer>
         <p id="copyright">&copy; 2023 by Anubhav Tiwari. All rights reserved.</p>
     </footer>
+    
+    <script src="/js/script.js"></script>
+    <script>
+        const myBookSeries = () => {
+            location.href = "/html/bookSeries.html";
+        }
+    </script>
 </body>
 </html>
