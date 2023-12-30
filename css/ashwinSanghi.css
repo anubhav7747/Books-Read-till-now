@@ -1,0 +1,86 @@
+*, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url(/Images/bg2.jpg);
+    height: 100%;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+    background: #126252;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #124252;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #123252;
+}
+
+#home {
+    left: 94%;
+    margin-top: 10px;
+    position: relative;
+    background-color: burlywood;
+    color: #124578;
+    font-size: 20px;
+    padding: 10px;
+    border: 1px solid burlywood;
+    cursor: pointer;
+    border-radius: 7px;
+}
+
+#home:hover {
+    text-decoration: underline;
+    background-color: #124578;
+    color: burlywood;
+    border: 1px solid #124578;
+    border-radius: 12px;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 44px;
+    text-decoration: underline;
+    margin-top: 15px;
+}
+
+article {
+    margin: 40px 100px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+article > ul > li {
+    margin-top: 20px;
+    font-weight: 900;
+    font-size: 23px;
+}
+
+article > ul > li > a {
+    color: #124252;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+article > ul > li > a:hover {
+    text-decoration: underline;
+    color: #126252;
+}
+
+#copyright {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 25px;
+    color: #126252;
+}
