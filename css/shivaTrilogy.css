@@ -15,7 +15,7 @@ body {
     padding: 75px;
     width: 85%;
     margin: 0 auto;
-    color: #f3f3f3;
+    color: #124578;
     font-size: 22px;
     line-height: 30px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -30,4 +30,5 @@ body {
 #copyright {
     margin-top: 2rem;
     margin-bottom: 1rem;
+    color: chocolate;
 }
