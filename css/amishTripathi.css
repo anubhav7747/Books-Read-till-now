@@ -71,6 +71,7 @@ article > ol > li > a {
     color: #124252;
     cursor: pointer;
 }
+
 article > ol > li > a:hover {
     text-decoration: none;
     color: #126252;
