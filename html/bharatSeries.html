@@ -19,13 +19,23 @@
     <section>
         <ul id="flex">
             <li id="krishnaKey"><a href="/html/krishnaKey.html" type="submit">The Krishna Key</a></li>
-            <li id="keepersOfKalachakra"><a href="/" type="submit">Keepers of The Kalachakra</a></li>
-            <li id="vaultOfVishnu"><a href="/" type="submit">The Vault of Vishnu</a></li>
+            <li id="keepersOfKalachakra"><a href="/html/keepersOfKalachakra.html" type="submit">Keepers of The Kalachakra</a></li>
+            <li id="vaultOfVishnu"><a href="/html/vaultOfVishnu.html" type="submit">The Vault of Vishnu</a></li>
         </ul>
     </section>
-
+    
+    
     <footer>
         <p id="copyright">&copy; 2023 by Anubhav Tiwari. All rights reserved.</p>
     </footer>
+    
+    <button id="prev" onclick="myBookSeries()">Book Series</button>
+    
+    <script src="/js/script.js"></script>
+    <script>
+        const myBookSeries = () => {
+            location.href = "/html/bookSeries.html";
+        }
+    </script>
 </body>
 </html>
