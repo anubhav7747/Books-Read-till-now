@@ -55,7 +55,7 @@ h1 {
     margin: 0 20px;
 }
 
-#bookSeries, #author, #title, #publicationHouse, #genre, #shivaTrilogy, #ramChandraSeries, #bharatSeries, #harperCollins, #wonderHouseBooks, #actionAndAdventure, #hinduism, #religiousAndSpiritualFiction, #immortalsOfMeluha, #secretsOfNagas, #oathOfVayuputras, #krishnaKey, #keepersOfKalachakra, #vaultOfVishnu {
+#bookSeries, #author, #title, #publicationHouse, #genre, #shivaTrilogy, #ramChandraSeries, #bharatSeries, #harperCollinsPublishers, #wonderHouseBooks, #actionAndAdventure, #hinduism, #religiousAndSpiritualFiction, #immortalsOfMeluha, #secretsOfNagas, #oathOfVayuputras, #krishnaKey, #keepersOfKalachakra, #vaultOfVishnu {
     font-size: 25px;
     border: 2px solid brown;
     background-color: brown;
@@ -64,13 +64,13 @@ h1 {
     border-radius: 5px;
 }
 
-#bookSeries > a, #author > a, #title > a, #publicationHouse > a, #genre > a, #shivaTrilogy > a, #ramChandraSeries > a, #bharatSeries > a, #harperCollins > a, #wonderHouseBooks > a, #actionAndAdventure > a, #hinduism > a, #religiousAndSpiritualFiction > a, #immortalsOfMeluha > a, #secretsOfNagas > a, #oathOfVayuputras > a, #krishnaKey > a, #keepersOfKalachakra > a, #vaultOfVishnu > a {
+#bookSeries > a, #author > a, #title > a, #publicationHouse > a, #genre > a, #shivaTrilogy > a, #ramChandraSeries > a, #bharatSeries > a, #harperCollinsPublishers > a, #wonderHouseBooks > a, #actionAndAdventure > a, #hinduism > a, #religiousAndSpiritualFiction > a, #immortalsOfMeluha > a, #secretsOfNagas > a, #oathOfVayuputras > a, #krishnaKey > a, #keepersOfKalachakra > a, #vaultOfVishnu > a {
     display: block;
     text-decoration: none;
     color: #fff;
 }
 
-#bookSeries:hover, #author:hover, #title:hover, #publicationHouse:hover, #genre:hover, #shivaTrilogy:hover, #ramChandraSeries:hover, #bharatSeries:hover, #harperCollins:hover, #wonderHouseBooks:hover, #actionAndAdventure:hover, #hinduism:hover, #religiousAndSpiritualFiction:hover, #immortalsOfMeluha:hover, #secretsOfNagas:hover, #oathOfVayuputras:hover, #krishnaKey:hover, #keepersOfKalachakra:hover, #vaultOfVishnu:hover {
+#bookSeries:hover, #author:hover, #title:hover, #publicationHouse:hover, #genre:hover, #shivaTrilogy:hover, #ramChandraSeries:hover, #bharatSeries:hover, #harperCollinsPublishers:hover, #wonderHouseBooks:hover, #actionAndAdventure:hover, #hinduism:hover, #religiousAndSpiritualFiction:hover, #immortalsOfMeluha:hover, #secretsOfNagas:hover, #oathOfVayuputras:hover, #krishnaKey:hover, #keepersOfKalachakra:hover, #vaultOfVishnu:hover {
     background-color: #9c411d;
     border-color: #9c411d;
     border-radius: 10px;
@@ -78,7 +78,7 @@ h1 {
     /* color:chartreuse; */
 }
 
-#bookSeries > a:hover, #author > a:hover, #title > a:hover, #publicationHouse > a:hover, #genre > a:hover, #shivaTrilogy > a:hover, #ramChandraSeries > a:hover, #bharatSeries > a:hover, #harperCollins > a:hover, #wonderHouseBooks > a:hover, #actionAndAdventure > a:hover, #hinduism > a:hover, #religiousAndSpiritualFiction > a:hover, #immortalsOfMeluha > a:hover, #secretsOfNagas > a:hover, #oathOfVayuputras > a:hover, #krishnaKey > a:hover, #keepersOfKalachakra > a:hover, #vaultOfVishnu > a:hover {
+#bookSeries > a:hover, #author > a:hover, #title > a:hover, #publicationHouse > a:hover, #genre > a:hover, #shivaTrilogy > a:hover, #ramChandraSeries > a:hover, #bharatSeries > a:hover, #harperCollinsPublishers > a:hover, #wonderHouseBooks > a:hover, #actionAndAdventure > a:hover, #hinduism > a:hover, #religiousAndSpiritualFiction > a:hover, #immortalsOfMeluha > a:hover, #secretsOfNagas > a:hover, #oathOfVayuputras > a:hover, #krishnaKey > a:hover, #keepersOfKalachakra > a:hover, #vaultOfVishnu > a:hover {
     /* color:chartreuse; */
     text-decoration: underline;
 }

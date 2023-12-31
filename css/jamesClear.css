@@ -69,6 +69,7 @@ article > p {
 
 article > ul > li {
     margin-top: 10px;
+    margin-left: 22px;
     font-weight: 900;
     font-size: 20px;
     color: #124578;
@@ -76,12 +77,13 @@ article > ul > li {
 
 article > ul > dt {
     margin-top: 5px;
+    margin-left: 23px;
     font-size: 20px;
 }
 
 article > ul > ul > li {
     margin-top: 10px;
-    margin-left: 20px;
+    margin-left: 43px;
     font-size: 20px;
 }
 

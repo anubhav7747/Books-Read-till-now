@@ -10,7 +10,7 @@ body {
     background-position: center;
     background-size: cover;
     color: #9c411d;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
 
 /* ::-webkit-scrollbar {
@@ -31,7 +31,7 @@ body {
 
 #heading {
     text-align: center;
-    font-size: 48px;
+    font-size: 44px;
 }
 
 /* section > #characters {
