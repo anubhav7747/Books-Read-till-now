@@ -15,3 +15,6 @@
     - Keepers of the Kalachakra
     - The Vault of Vishnu
 4. Atomic Habits \(James Clear)
+5. Legend of Suheldev: The King Who Saved India \(Amish Tripathi)
+6. The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life \(Mark Manson)
+7. The Business School for People Who Like Helping People \(Robert T. Kiyosaki)
