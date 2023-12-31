@@ -49,11 +49,12 @@ body {
 }
 
 h1 {
-    font-family: sans-serif;
+    /* font-family: sans-serif; */
     text-align: center;
     font-size: 44px;
     text-decoration: underline;
     margin-top: 15px;
+    color: #601e04;
 }
 
 article {
@@ -62,7 +63,10 @@ article {
 }
 
 article > p {
-    font-size: 22px;
+    font-size: 20px;
+    color: #126252;
+    font-family: monospace;
+    text-align: justify;
 }
 
 .line-height {
@@ -77,5 +81,5 @@ article > p {
     text-align: center;
     margin-bottom: 1em;
     font-size: 25px;
-    color: #126252;
+    color: #000;
 }

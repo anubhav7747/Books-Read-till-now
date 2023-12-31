@@ -12,7 +12,7 @@ body {
 }
 
 .width-500 {
-    padding: 75px;
+    padding: 50px;
     width: 85%;
     margin: 0 auto;
     color: #124578;
@@ -24,11 +24,11 @@ body {
 }
 
 #flex {
-    margin-top: 2rem;
+    margin-top: 0;
 }
 
 #copyright {
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+    margin-top: 3em;
+    margin-bottom: 1.5em;
     color: chocolate;
 }

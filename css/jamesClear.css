@@ -49,26 +49,29 @@ body {
 }
 
 h1 {
-    font-family: sans-serif;
+    /* font-family: sans-serif; */
     text-align: center;
     font-size: 44px;
     text-decoration: underline;
     margin-top: 15px;
+    color: #601e04;
 }
 
 article {
     margin: 40px 75px;
     font-family: Arial, Helvetica, sans-serif;
+    color: #126252;
 }
 
 article > p {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 article > ul > li {
     margin-top: 10px;
     font-weight: 900;
     font-size: 20px;
+    color: #124578;
 }
 
 article > ul > dt {
@@ -82,9 +85,13 @@ article > ul > ul > li {
     font-size: 20px;
 }
 
+.line-height {
+    line-height: 30px;
+}
+
 #copyright {
     text-align: center;
     margin-bottom: 1em;
     font-size: 25px;
-    color: #126252;
+    color: #000;
 }
