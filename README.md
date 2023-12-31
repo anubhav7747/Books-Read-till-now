@@ -18,3 +18,5 @@
 5. Legend of Suheldev: The King Who Saved India \(Amish Tripathi)
 6. The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life \(Mark Manson)
 7. The Business School for People Who Like Helping People \(Robert T. Kiyosaki)
+8. Ego Is the Enemy (Ryan Holiday)
+9. The Theory of Everything: The Origin and Fate of the Universe (Stephen Hawking)
