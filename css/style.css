@@ -98,6 +98,10 @@ h1 {
 
 /* for mobile */
 @media only screen and (max-width: 768px) {
+    body, html {
+        height: 100%;
+    }
+
     h1 {
         margin-top: 5rem;
         font-size: 44px;
@@ -131,7 +135,8 @@ h1 {
     }
 
     #flex > li {
-        margin: 10px 25px;
+        margin: 12px 40px;
+        text-align: center;
     }
 
     #bookSeries, #author, #title, #publicationHouse, #genre, #shivaTrilogy, #ramChandraSeries, #bharatSeries, #harperCollinsPublishers, #wonderHouseBooks, #actionAndAdventure, #hinduism, #religiousAndSpiritualFiction, #immortalsOfMeluha, #secretsOfNagas, #oathOfVayuputras, #krishnaKey, #keepersOfKalachakra, #vaultOfVishnu {
@@ -144,7 +149,7 @@ h1 {
     #copyright {
         font-size: 18px;
         margin-top: 5em;
-        margin-bottom: 15px;
+        /* margin-bottom: 15px; */
     }
 
     .copy-margin {
