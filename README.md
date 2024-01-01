@@ -13,13 +13,14 @@
 3. Bharat Series \(Ashwin Sanghi)
     - Krishna Key
     - Keepers of the Kalachakra
-    - The Vault of Vishnu
+    - The Vault of Vishnu (to be completed)
 4. Atomic Habits \(James Clear)
 5. Legend of Suheldev: The King Who Saved India \(Amish Tripathi)
-6. The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life \(Mark Manson)
-7. The Business School for People Who Like Helping People \(Robert T. Kiyosaki)
-8. Ego Is the Enemy (Ryan Holiday)
-9. The Theory of Everything: The Origin and Fate of the Universe (Stephen Hawking)
+6. Dharma: Decoding the Epics for a Meaningful Life
+7. The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life \(Mark Manson)
+8. The Business School for People Who Like Helping People \(Robert T. Kiyosaki)
+9. Ego Is the Enemy (Ryan Holiday)
+10. The Theory of Everything: The Origin and Fate of the Universe (Stephen Hawking)
 
 ![Screenshot (6762)](https://github.com/anubhav7747/Books/assets/77168708/88552453-b4f4-4865-abc1-42d05dd83aaf)
 ![Screenshot (6763)](https://github.com/anubhav7747/Books/assets/77168708/e4063788-0ad1-4bd0-a5fa-e657474b773c)
