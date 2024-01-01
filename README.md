@@ -20,3 +20,7 @@
 7. The Business School for People Who Like Helping People \(Robert T. Kiyosaki)
 8. Ego Is the Enemy (Ryan Holiday)
 9. The Theory of Everything: The Origin and Fate of the Universe (Stephen Hawking)
+
+![Screenshot (6762)](https://github.com/anubhav7747/Books/assets/77168708/88552453-b4f4-4865-abc1-42d05dd83aaf)
+![Screenshot (6763)](https://github.com/anubhav7747/Books/assets/77168708/e4063788-0ad1-4bd0-a5fa-e657474b773c)
+![Screenshot (6764)](https://github.com/anubhav7747/Books/assets/77168708/c278777b-bfb7-46f8-af2d-5adbacf62ee1)
