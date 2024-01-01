@@ -13,7 +13,7 @@
 3. Bharat Series \(Ashwin Sanghi)
     - Krishna Key
     - Keepers of the Kalachakra
-    - The Vault of Vishnu (to be completed)
+    - The Vault of Vishnu 
 4. Atomic Habits \(James Clear)
 5. Legend of Suheldev: The King Who Saved India \(Amish Tripathi)
 6. Dharma: Decoding the Epics for a Meaningful Life
