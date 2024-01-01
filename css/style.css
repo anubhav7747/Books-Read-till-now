@@ -36,12 +36,16 @@ h1 {
 #quote1, #quote2 {
     text-align: center;
     word-wrap: normal;
-    margin-top: 2rem;
     font-size: 25px;
+}
+
+#quote1 {
+    margin-top: 2rem;
 }
 
 #quote2 {
     color:  #b13706;
+    margin-top: 1rem;
 }
 
 #flex {
@@ -92,7 +96,7 @@ h1 {
 }
 
 .copy-margin {
-    margin-top: 9.75em !important;
+    margin-top: 10.5em !important;
 }
 
 
@@ -125,7 +129,11 @@ h1 {
 
     #quote1 {
         margin: 0 10px;
-        margin-top: 1rem;
+        margin-top: 1.5rem;
+    }
+
+    #quote2 {
+        margin-top: 0.75rem;
     }
 
     #flex {
@@ -155,5 +163,9 @@ h1 {
 
     .copy-margin {
         margin-top: 5em !important;
+    }
+
+    .margin-bookSeries {
+        margin-top: 8em !important;
     }
 }
