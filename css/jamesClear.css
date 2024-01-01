@@ -93,7 +93,55 @@ article > ul > ul > li {
 
 #copyright {
     text-align: center;
+    margin-top: 5rem;
     margin-bottom: 1em;
     font-size: 25px;
     color: #000;
+}
+
+
+/* for mobile */
+@media only screen and (max-width: 768px) {
+    body {
+        height: 100%;
+    }
+    
+    #home {
+        left: 2%;
+    }
+
+    h1 {
+        font-size: 32px;
+        margin: 0 15px;
+        margin-top: 1rem;
+    }
+
+    article {
+        margin: 40px 50px;
+    }
+
+    article > p {
+        font-size: 18px;
+        text-align: justify;
+    }
+
+    article > ul > li {
+        font-size: 18px;
+    }
+
+    article > ul > dt {
+        font-size: 18px;
+    }
+
+    article > ul > ul > li {
+        font-size: 18px;
+    }
+
+    .line-height {
+        line-height: 27px;
+    }
+
+    #copyright {
+        font-size: 20px;
+    }
 }

@@ -57,4 +57,10 @@ article > .margin-top {
     #home {
         left: 2%;
     }
+
+    #home, #prev {
+        font-size: 18px;
+        padding: 7px;
+        border: none;
+    }
 }

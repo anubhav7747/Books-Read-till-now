@@ -30,5 +30,15 @@ body {
 #copyright {
     margin-top: 3em;
     margin-bottom: 1.5em;
-    color: chocolate;
+    color: #000;
+}
+
+
+/* for mobile */
+@media only screen and (max-width: 768px) {
+    .width-500 {
+        padding: 40px;
+        font-size: 20px;
+        line-height: 27px;
+    }
 }

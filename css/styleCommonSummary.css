@@ -72,3 +72,22 @@ article {
     font-size: 20px;
     color: #000;
 }
+
+
+/* for mobile */
+@media only screen and (max-width: 768px) {
+    #heading {
+        margin-top: 1rem;
+        font-size: 32px;
+    }
+
+    article {
+        padding: 30px 50px;
+        font-size: 18px;
+        line-height: 27px;
+    }
+
+    #copyright {
+        font-size: 18px;
+    }
+}

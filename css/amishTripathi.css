@@ -96,7 +96,45 @@ article > ol > ul > li > a:hover {
 
 #copyright {
     text-align: center;
-    margin-bottom: 1em;
+    margin-top: 7rem;
+    margin-bottom: 1rem;
     font-size: 25px;
     color: #000;
+}
+
+
+/* for mobile */
+@media only screen and (max-width: 768px) {
+    body {
+        height: 100%;
+    }
+    
+    #home {
+        left: 2%;
+        font-size: 18px;
+        padding: 7px;
+        border: none;
+    }
+
+    h1 {
+        font-size: 36px;
+        margin-top: 1rem;
+    }
+
+    article {
+        margin: 40px 75px;
+    }
+
+    article > ol > li {
+        margin-top: 15px;
+        font-size: 20px;
+    }
+
+    article > ol > ul > li {
+        font-size: 18px;
+    }
+
+    #copyright {
+        margin-top: 5rem;
+    }
 }
