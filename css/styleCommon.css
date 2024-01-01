@@ -50,3 +50,11 @@ h1 {
 article > .margin-top {
     margin-top: 2rem;
 }
+
+
+/* for mobile */
+@media only screen and (max-width: 426px) {
+    #home {
+        left: 2%;
+    }
+}

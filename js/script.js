@@ -19,7 +19,7 @@ randomQuote3 = () => {
 }
 
 randomQuote4 = () => {
-    document.getElementById('quote1').innerHTML = '"A room without books is like a body without a soul.';
+    document.getElementById('quote1').innerHTML = '"A room without books is like a body without a soul."';
     document.getElementById('quote2').innerText = '— Cicero';
 }
 
